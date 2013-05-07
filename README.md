@@ -1,4 +1,4 @@
-geoSdi-CAS
+geosdi-cas
 ==========
 
 Jasig Central Authentication Service (3.5.1 version) personalized by geoSdi
